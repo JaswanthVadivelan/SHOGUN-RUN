@@ -104,7 +104,7 @@
 
 ## 📧 Contact  
 If you have any queries or feedback, feel free to contact:  
-**Developer**: Jaswanth V  
+**Developer**: Jaswanth V , Prasath M , Manjusha S
 **GitHub**: [JaswanthVadivelan](https://github.com/JaswanthVadivelan)  
 **LinkedIn**: [Jaswanth Vadivelan](https://www.linkedin.com/in/jaswanthvadivelan/)
 
