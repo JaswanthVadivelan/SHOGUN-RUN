@@ -5,10 +5,10 @@
 ---
 
 ## 🎥 Demo Video  
-[Watch the Demo Video](https://drive.google.com/file/d/1yoYWegpOungoY-t6G-XN-q1WvrDH0Qeh/view?usp=sharing)
+[Watch the Demo Video](https://youtu.be/wKd50DaSSwQ)
 
 ## 📦 Game Download  
-[Download the Compressed Game File](https://drive.google.com/file/d/13ZYG9poVaq8hHupiEMZoQsM_rmujmnZa/view?usp=sharing)
+[Download the Compressed Game File](https://jaswanth-vadivelan.itch.io/shogun-run-endless-run-game)
 
 ---
 
@@ -57,7 +57,7 @@
    - Press **P** to pause the game anytime.
 
 11. **Platforms**  
-   - Available on **Android** and **Windows**.
+   - Available on **Windows**.
 
 ---
 
@@ -97,8 +97,8 @@
 ---
 
 ## 🔗 Links  
-- [Demo Video](https://drive.google.com/file/d/1yoYWegpOungoY-t6G-XN-q1WvrDH0Qeh/view?usp=sharing)  
-- [Download the Game](https://drive.google.com/file/d/13ZYG9poVaq8hHupiEMZoQsM_rmujmnZa/view?usp=sharing)
+- [Demo Video](https://youtu.be/wKd50DaSSwQ)  
+- [Download the Game]()
 
 ---
 
@@ -107,7 +107,7 @@ If you have any queries or feedback, feel free to contact:
 **Developer**: Jaswanth V , Prasath M , Manjusha S
 
 **GitHub**: [JaswanthVadivelan](https://github.com/JaswanthVadivelan)  
-**LinkedIn**: [Jaswanth Vadivelan](https://www.linkedin.com/in/jaswanthvadivelan/)
+**LinkedIn**: [Jaswanth Vadivelan](https://jaswanth-vadivelan.itch.io/shogun-run-endless-run-game)
 
 ---
 
